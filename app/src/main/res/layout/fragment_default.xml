@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Fdefault"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8600A3D4"
+    tools:context=".Fragmentos.FragmentDefault">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="183dp"
+        android:layout_height="140dp"
+        android:src="@drawable/user2"
+        app:layout_constraintBottom_toTopOf="@+id/Nombre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.617" />
+
+    <TextView
+
+        android:id="@+id/hab1"
+        android:layout_width="335dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical"
+        android:text="Habilidades matemáticas"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/hab2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+
+        android:id="@+id/hab2"
+        android:layout_width="335dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical"
+        android:text="Formular propuestas para la solución de problemas reales mediante el uso de la tecnologías"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/idiomas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+
+        android:id="@+id/idiomas"
+        android:layout_width="335dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="116dp"
+        android:gravity="center_vertical"
+        android:text="Nivel de Ingles: Medio"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+
+        android:id="@+id/carrera"
+        android:layout_width="335dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical"
+        android:text="Carrera: Ingeniria en Sistemas Computacionales"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/edad"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+
+        android:id="@+id/edad"
+        android:layout_width="335dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical"
+        android:text="Edad: 24 años"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/hab"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+
+        android:id="@+id/hab"
+        android:layout_width="335dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical"
+        android:text="Habilidades:"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/hab1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/Nombre"
+        android:layout_width="335dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:text="Eduardo Villalobos Peña"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/carrera"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

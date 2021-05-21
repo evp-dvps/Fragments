@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ironman1">Iron Man</string>
+    <string name="ironman1desc">La película que dio el pistoletazo de salida al Universo Cinematográfico de Marvel (UCM) y al cambio más grande en el cine de Hollywood. Conocemos a Tony Stark, que será el personaje sobre el que gire toda la franquicia hasta Vengadores: Endgame.</string>
+    <string name="ironman1descripcion">Tony Stark (Robert Downey Jr.) se dedica a vender armas y lo tiene todo: dinero, poder, mujeres... Durante una demostración en Afganistán, un poderoso traficante lo captura. Gravemente herido (un fragmento de metralla está junto a su corazón), Stark se construye una armadura que le mantiene con vida y gracias a la cual escapa. Ya en USA, jura usar su nuevo traje para salvar a la gente.</string>
+
+    <string name="hulk">El increíble Hulk</string>
+    <string name="hulkdesc">Esta nueva versión de Hulk, después del fracaso de la película de Ang Lee, tampoco convenció a nadie. Además, Edward Norton y su carácter complicado provocó que Marvel le sustituyese por Mark Ruffalo. Aun así, ¡sí es canon del UCM!</string>
+    <string name="hulkdescripcion">En esta ocasión, Bruce Banner (Edward Norton) comienza la película en Brasil, donde busca una cura para su sobreexposición a los rayos gamma que le transforma en Hulk. Banner huye del ejército, liderado por el general Ross (William Hurt), y del militar Emil Blonsky (Tim Roth), transformado también en un gigantesco y poderoso ser, La Abominación, que tras hacerse con el secreto que le convierte en un monstruo verde. Solo Betty Ross (Liv Tyler) estará a su lado</string>
+
+    <string name="ironman2">Iron Man 2</string>
+    <string name="ironman2desc">Segunda aventura de Tony Stark y, aunque la crítica la vapuleó, fue un éxito de taquilla y nos presentó a la Viuda Negra de Scarlett Johansson, además de Máquina de Guerra con la cara de Don Cheadle.</string>
+    <string name="ironman2descripcion">Sometido a presiones por parte del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony Stark (Robert Downey Jr.) es reacio a desvelar los secretos de la armadura de Iron Man porque teme que esa información pueda caer en manos indeseables. Con Pepper Potts (Gwyneth Paltrow) y James “Rhodey” Rhodes (Don Cheadle) a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.</string>
+
+    <string name="thor">Thor</string>
+    <string name="thordesc">IPresentación de Thor, de Loki (el villano más famoso de todas las películas) e incluso de Ojo de Halcón en un papel menor. Además, anda por ahí Natalie Portman, que tras años de estar desaparecida en el UCM volverá en Thor: Love and Thunder.</string>
+    <string name="thordescripcion">Thor (Chris Hemsworth) es un poderoso pero arrogante guerrero cuyos imprudentes actos reavivan una antigua guerra. Como consecuencia, Thor es castigado a ser enviado a la Tierra, donde se ve obligado a vivir entre humanos. Cuando el villano más peligroso de su mundo envía a las fuerzas más oscuras de Asgard, Thor aprende lo que hace falta para ser un verdadero héroe.</string>
+
+    <string name="vengadores1">Los Vengadores</string>
+    <string name="vengadores1desc">La culminación de la Fase 1 es esta epopeya con una de las peleas finales mejor coreografiadas de los últimos años. Empezamos a conocer las dinámicas de los personajes... y a Thanos, en la escena post-créditos.</string>
+    <string name="vengadores1descripcion">Representa la reunión más espectacular jamás vista de superhéroes. Un enemigo inesperado amenaza con poner en peligro la seguridad mundial, así que Nick Fury (Samuel L. Jackson), director de la agencia internacional para el mantenimiento de la paz conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.</string>
+
+</resources>
